@@ -26,6 +26,9 @@ Các chỉ số:
 * Chỉ số cơ bản:  `health` và `mana` sẽ tăng mỗi khi bạn lên level nhân vật
 * Chỉ số mở rộng:  `attack` `defense` `luck` `wisdom` sẽ tăng khi bạn dùng gem nâng cấp \(max +10\) không tăng lên mỗi khi nhân vật bạn lên cấp.
 
+Hệ của mỗi nhân vật sẽ ảnh hưởng tới chỉ số của nhân vật đó.  
+
+
 {% tabs %}
 {% tab title="catc i \[ID\]" %}
 Ví dụ xem thông tin nhân vật **Doramiga**. Bạn có thể xem bằng lệnh `catc i 60` hoặc `catc i Doramiga`
@@ -37,4 +40,10 @@ Ví dụ xem thông tin nhân vật **Doramiga**. Bạn có thể xem bằng l�
 ![Th&#xF4;ng tin Doramiga b&#x1EA1;n &#x111;ang s&#x1EDF; h&#x1EEF;u](../../.gitbook/assets/image%20%286%29.png)
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+Flag tìm kiếm: -n tên, -g hệ, -d miêu tả, -p premium \(0,1\), -e emoji, -sr tỉ lệ xuất hiện, -a hiện tất cả.
+{% endhint %}
+
+
 
