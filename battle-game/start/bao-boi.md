@@ -40,8 +40,9 @@ Xem thông tin nhân vật bạn đang có: `catgg [ID hiện tại]`
 
 Các chỉ số:
 
-* Chỉ số cơ bản:  ![](https://cdn.discordapp.com/emojis/689391397643747368.png?v=1)`damage` và ![](https://cdn.discordapp.com/emojis/689391171411247196.png?v=1)`shield` sẽ tăng mỗi khi bạn cường hóa vũ khí
+* Ký năng: 
 * Chỉ số mở rộng:  ![](https://cdn.discordapp.com/emojis/689391538601852959.png?v=1)`attack` ![](https://cdn.discordapp.com/emojis/693700331216830474.png?v=1)`defense` ![](https://cdn.discordapp.com/emojis/689391282350588106.png?v=1)`luck` ![](https://cdn.discordapp.com/emojis/689391102100635728.png?v=1)`wisdom` sẽ tăng khi bạn dùng gem nâng cấp \(max +10\) không tăng lên khi bạn cường hóa.
+* Các loại gadget được xếp hạng từ cao tới thấp: ![:uls:](https://cdn.discordapp.com/emojis/693704060972433478.png?v=1) ![:ss:](https://cdn.discordapp.com/emojis/693699322004504607.png?v=1) ![:as:](https://cdn.discordapp.com/emojis/693699320863784972.png?v=1) ![:js:](https://cdn.discordapp.com/emojis/693699320842551307.png?v=1) ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.png?v=1) ![:ur:](https://cdn.discordapp.com/emojis/693699222515744809.png?v=1) ![:rr:](https://cdn.discordapp.com/emojis/693699222729654284.png?v=1) ![:sr:](https://cdn.discordapp.com/emojis/693699222855352400.png?v=1) ![:ucn:](https://cdn.discordapp.com/emojis/693702729930899466.png?v=1) ![:sn:](https://cdn.discordapp.com/emojis/693699121541808138.png?v=1) ![:qn:](https://cdn.discordapp.com/emojis/693699122657493032.png?v=1) ![:cn:](https://cdn.discordapp.com/emojis/693699121529225267.png?v=1) 
 
 {% tabs %}
 {% tab title="catwp i \[ID\]" %}
