@@ -11,6 +11,6 @@
 
 ## Battle game
 
-* [FAG - Gambles](battle-game/fag-gambles.md)
+* [FAG - Battle Game](battle-game/fag-gambles.md)
 * [Getting Started...](battle-game/untitled.md)
 
