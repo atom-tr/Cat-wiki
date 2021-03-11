@@ -185,13 +185,12 @@ Claim characters, find weapons, collect gadgets, buy gems, upgrade your equipmen
 
 Play gamble games with bot and other users \(PvP\) using catnip
 
-`slot` Slot machine
-
-`baucua` A traditional gamble: Baucua
-
-`blackjack` Play blackjack with your friends
-
-`coinflip` Classic and Extended coinflip
+| Command | Description | Aliases |
+| :--- | :--- | :--- |
+| `slot` | Slot machine |  |
+| `baucua` | A traditional gamble: Baucua |  |
+| `blackjack` | Play blackjack with your friends |  |
+| `coinflip` | Classic and Extended coinflip |  |
 
 `gtn` Guess the number with random hints spawned randomly
 
