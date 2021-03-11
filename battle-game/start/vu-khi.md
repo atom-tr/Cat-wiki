@@ -1,8 +1,6 @@
 # Vũ khí
 
-{% hint style="warning" %}
 Bạn cần trang bị một nhân vật và weapon để có thể tham gia trận chiến.
-{% endhint %}
 
 ## Các lệnh liên quan
 
@@ -55,6 +53,4 @@ Bạn sẽ thấy chỉ số cơ bản được tăng thêm khi cường hóa l�
 ![&#x1F47E; Atom.&apos;s SIG P228](../../.gitbook/assets/image%20%289%29.png)
 {% endtab %}
 {% endtabs %}
-
-
 
