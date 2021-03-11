@@ -54,3 +54,17 @@ Bạn sẽ thấy chỉ số cơ bản được tăng thêm khi cường hóa l�
 {% endtab %}
 {% endtabs %}
 
+## Cường hóa vũ khí
+
+Để nâng cấp vũ khí của bạn, bạn cần sử dụng Houtu \(gem 3\) để nâng cấp. Số lượng và tỷ lệ sẽ phụ thuộc vào cấp độ hiện tại của vũ khí bạn. Số lượng Huotu cần để 100% nâng cấp thành công được tính bằng phép tính: `3^[Cấp hiện tại]` 
+
+{% hint style="success" %}
+Vũ khí sẽ có thể nâng cấp 8 lần - **Cấp 9 là cấp cao nhất**
+{% endhint %}
+
+{% hint style="warning" %}
+Sau khi nâng cấp vũ khí lên level mới, ID cũng vũ khí sẽ thay đổi đồng thời các cỉ số mở rộng đã được cường hóa sẽ bị reset
+{% endhint %}
+
+
+
