@@ -15,6 +15,10 @@ Bạn cần trang bị một nhân vật và weapon để có thể tham gia tr�
 * Bán nhân vật: `catsell wp [ID] [số lượng]`
 
 {% hint style="info" %}
+ID hiện tại của wp sẽ là: `[Cấp]+[ID gốc]`
+{% endhint %}
+
+{% hint style="info" %}
 Xem đầy đủ các lệnh và thông tin chi tiết liên quan: **`cath wp`**
 {% endhint %}
 
@@ -31,10 +35,6 @@ Người chơi khi bán qua chợ Đô Rề sẽ phải chịu phí 10%. Các ng
 
 Để xem đầy đủ chi tiết nhân vật: `catwp i [ID gốc]`  
 Xem thông tin nhân vật bạn đang có: `catwp [ID hiện tại]`
-
-{% hint style="info" %}
-ID hiện tại của wp sẽ là: `[Cấp]+[ID gốc]`
-{% endhint %}
 
 Các chỉ số:
 
