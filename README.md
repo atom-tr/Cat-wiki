@@ -8,7 +8,3 @@ A cute bot with battle RPG, PvP gambles, text to speech, anonymous confession, t
 * \*\*\*\*[**Support Channel**](https://discord.gg/9kfcFNt)
 * \*\*\*\*[**Vote Doraemon**](https://top.gg/bot/574812330760863744/vote)
 
-
-
-
-
