@@ -63,7 +63,7 @@ Vũ khí sẽ có thể nâng cấp 8 lần - **Cấp 9 là cấp cao nhất**
 {% endhint %}
 
 {% hint style="warning" %}
-Sau khi nâng cấp vũ khí lên level mới, ID cũng vũ khí sẽ thay đổi đồng thời các cỉ số mở rộng đã được cường hóa sẽ bị reset
+Sau khi **nâng cấp vũ khí** lên level mới, **ID vũ khí sẽ thay đổi** đồng thời các **chỉ số mở rộng** đã được cường hóa **sẽ bị reset**
 {% endhint %}
 
 
