@@ -30,6 +30,10 @@ Người chơi khi bán qua chợ Đô Rề sẽ phải chịu phí 10%. Các ng
 Để xem đầy đủ chi tiết nhân vật: `catwp i [ID gốc]`  
 Xem thông tin nhân vật bạn đang có: `catwp [ID hiện tại]`
 
+{% hint style="info" %}
+ID hiện tại của wp sẽ là: `[Cấp]+[ID gốc]`
+{% endhint %}
+
 Các chỉ số:
 
 * Chỉ số cơ bản:  ![](https://cdn.discordapp.com/emojis/689391397643747368.png?v=1)`damage` và ![](https://cdn.discordapp.com/emojis/689391171411247196.png?v=1)`shield` sẽ tăng mỗi khi bạn cường hóa vũ khí
