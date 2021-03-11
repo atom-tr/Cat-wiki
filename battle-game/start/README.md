@@ -64,3 +64,11 @@ catwp use [ID]
 
 ## Use Gadget
 
+Để kiểm tra bảo bối bạn đang sở hữu:
+
+```text
+catg
+```
+
+`catgg` là lệnh rút gọn của `catgadget`
+
