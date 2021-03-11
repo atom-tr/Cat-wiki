@@ -24,7 +24,7 @@ Không nhập: **&lt; &gt;, {}, \[ \], or \|** vào các câu lệnh của bạn
 
 ## Battle game
 
-Claim characters, find weapons, collect gadgets, buy gems, upgrade your equipments and fight with bosses and other users
+Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng cấp sức mạnh bản thân để cùng team chinh phục Adventure, Boss, Boss thế giới.
 
 <table>
   <thead>
@@ -38,27 +38,29 @@ Claim characters, find weapons, collect gadgets, buy gems, upgrade your equipmen
     <tr>
       <td style="text-align:left"><code>me</code>
       </td>
-      <td style="text-align:left">Check your equipments. You can equip 1 character, 1 weapon and up to 3
-        gadgets</td>
-      <td style="text-align:left">
+      <td style="text-align:left">Ki&#x1EC3;m tra th&#xF4;ng tin trang b&#x1ECB; b&#x1EA3;n th&#xE2;n</td>
+      <td
+      style="text-align:left">
         <p><code>cati</code>
         </p>
         <p><code>catme</code>
         </p>
-      </td>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>character</code>
       </td>
-      <td style="text-align:left">Claim, search, equip, rename, reroll and check your characters</td>
-      <td
-      style="text-align:left"><code>catc</code>
-        </td>
+      <td style="text-align:left">Thu th&#x1EAD;p, t&#xEC;m ki&#x1EBF;m, trang b&#x1ECB;, &#x111;&#x1ED5;i
+        t&#xEA;n, reroll v&#xE0; ki&#x1EC3;m tra nh&#xE2;n v&#x1EAD;t b&#x1EA1;n
+        c&#xF3;</td>
+      <td style="text-align:left"><code>catc</code>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>weapon</code>
       </td>
-      <td style="text-align:left">Claim, search, equip and check your weapons</td>
+      <td style="text-align:left">T&#xEC;m ki&#x1EBF;m, ki&#x1EC3;m tra v&#x169; kh&#xED; b&#x1EA1;n &#x111;ang
+        c&#xF3; v&#xE0; trang b&#x1ECB; ch&#xFA;ng</td>
       <td style="text-align:left">
         <p><code>catwp</code>
         </p>
