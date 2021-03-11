@@ -28,7 +28,7 @@ Xem thông tin nhân vật bạn đang có: `catc [ID]`
 Các chỉ số:
 
 * Chỉ số cơ bản:  `health` và `mana` sẽ tăng mỗi khi bạn lên level nhân vật
-* Chỉ số mở rộng:  `attack` `defense` `luck` `wisdom` sẽ tăng khi bạn dùng gem nâng cấp \(max +10\) không tăng lên mỗi khi nhân vật bạn lên cấp.
+* Chỉ số mở rộng theo thứ tự:  `attack` `defense` `luck` `wisdom` sẽ tăng khi bạn dùng gem nâng cấp \(max +10\) không tăng lên mỗi khi nhân vật bạn lên cấp.
 
 Hệ của mỗi nhân vật sẽ ảnh hưởng tới chỉ số của nhân vật đó.  
 
