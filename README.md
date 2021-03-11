@@ -191,20 +191,16 @@ Play gamble games with bot and other users \(PvP\) using catnip
 | `baucua` | A traditional gamble: Baucua |  |
 | `blackjack` | Play blackjack with your friends |  |
 | `coinflip` | Classic and Extended coinflip |  |
+| `gtn` | Guess the number with random hints spawned randomly |  |
+| `threecard` | Play threecard with your friends |  |
+| `lotto` | Buy tickets and win jackpot |  |
 
-`gtn` Guess the number with random hints spawned randomly
+### Custom games
 
-`threecard` Play threecard with your friends
+* `ludo` Play ludo with your friends
+* `amongwumpii` Discord version of Among us game
 
-`lotto` Buy tickets and win jackpot
-
-#### Custom games
-
-`ludo` Play ludo with your friends
-
-`amongwumpii` Discord version of Among us game
-
-#### Economy
+### Economy
 
 Doreamon's catnip currency system used for gamble games.
 
