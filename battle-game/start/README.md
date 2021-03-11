@@ -40,6 +40,8 @@ catc use [ID]
 
 Để xem thêm về nhân vật:
 
+{% page-ref page="nhan-vat.md" %}
+
 ## Use Weapon
 
 Để kiểm tra những vũ khí bạn đang sở hữu:
