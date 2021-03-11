@@ -216,7 +216,7 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
     <tr>
       <td style="text-align:left"><code>divorce</code>
       </td>
-      <td style="text-align:left">Divorce</td>
+      <td style="text-align:left">L&#x1EC7;nh g&#xE2;y ra &#xE1;c m&#x1ED9;ng</td>
       <td style="text-align:left"><code>cat divorce</code>
       </td>
     </tr>
