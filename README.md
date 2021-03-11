@@ -10,6 +10,10 @@ Here you are, some useful links:
 * \*\*\*\*[**Support Channel**](https://discord.gg/9kfcFNt)
 * \*\*\*\*[**Vote Doraemon**](https://top.gg/bot/574812330760863744/vote)
 
+### Commands
+
+Some commands have its subcommands, if so the syntax will be: `cat [command] [subcommand] [arguments]`
+
 ### Syntax:
 
 Before anything, we should go over the basics of how to read Yui's command prompts and Syntax
