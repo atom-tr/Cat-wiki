@@ -12,5 +12,6 @@
 ## Battle game
 
 * [FAG - Battle Game](battle-game/fag-gambles.md)
-* [Getting Started...](battle-game/untitled.md)
+* [Chương 1: Sự khởi đầu](battle-game/untitled/README.md)
+  * [Nhân vật](battle-game/untitled/nhan-vat.md)
 
