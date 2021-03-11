@@ -10,18 +10,18 @@ _Note: This command is only available for **Guild Premium**_
 
 ## As a server owner, is there a way to know who wrote the anonymous confessions?
 
- **We do not provide any user information about confessions to any servers.**
+**We do not provide any user information about confessions to any servers.**
 
-If you need help with reporting some **serious** cases to discord, we can handle that! 
+If you need help with reporting some **serious** cases to discord, we can handle that!
 
 Btw, you can upgrade to **Guild Premium** to access Pending channel, where you can decide which one will be posted on confession channel.
 
 ## How do I make a channel and assign it for word story
 
- See `cathelp channel` and setup your channel, for example: `catchannel ows`
+See `cathelp channel` and setup your channel, for example: `catchannel ows`
 
 {% hint style="info" %}
- Use **`cathelp channel`** for more info
+Use **`cathelp channel`** for more info
 {% endhint %}
 
 ## How do I reset the counting channel?
@@ -31,6 +31,4 @@ Btw, you can upgrade to **Guild Premium** to access Pending channel, where you c
 ## Is there any purge or nuke command?
 
 `catclean {number}`
-
-## 
 

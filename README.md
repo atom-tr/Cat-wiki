@@ -19,8 +19,6 @@ Some commands have its subcommands, if so the syntax will be: `cat [command] [su
 Before anything, we should go over the basics of how to read Yui's command prompts and Syntax
 
 {% hint style="danger" %}
-Do not type: **&lt; &gt;, {}, \[ \], or \|**  in your commands, these are only placeholders! 
+Do not type: **&lt; &gt;, {}, \[ \], or \|** in your commands, these are only placeholders!
 {% endhint %}
-
-
 

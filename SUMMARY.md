@@ -5,11 +5,9 @@
 
 ## Feature Channels
 
----
-
-* [Confession channel](getting-started.../README.md)
-  * [Setup](getting-started.../untitled.md)
-* [Battle game](untitled-1.md)
+* [Confession channel](feature-channels/getting-started.../README.md)
+  * [Setup](feature-channels/getting-started.../untitled.md)
+* [Battle game](feature-channels/untitled-1.md)
 
 ## Battle game
 
