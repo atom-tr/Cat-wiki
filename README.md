@@ -48,7 +48,7 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
         </td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="battle-game/untitled/nhan-vat.md">character</a>
+      <td style="text-align:left"><a href="battle-game/start/nhan-vat.md">character</a>
       </td>
       <td style="text-align:left">Thu th&#x1EAD;p, t&#xEC;m ki&#x1EBF;m, trang b&#x1ECB;, &#x111;&#x1ED5;i
         t&#xEA;n, reroll v&#xE0; ki&#x1EC3;m tra nh&#xE2;n v&#x1EAD;t b&#x1EA1;n
