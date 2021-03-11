@@ -21,6 +21,10 @@ Ngoài gói **Starter Pack \(item 10\)** chỉ nhận được 1 lần khi bắt
 Bạn có thể nhận rương vũ khí: mua ở shop với giá 25 dora `catbuy 1 [số lượng]` hoặc nhận được khi đánh bại boss.  
 Bạn có thể tìm mua vũ khí bằng cách hỏi trực tiếp ở người chơi khác, hoặc tìm kiếm ở chợ Đô Rề: `catm wp`
 
+{% hint style="warning" %}
+Người chơi khi bán qua chợ Đô Rề sẽ phải chịu phí 10%. Các người chơi có Premium Batte 3 / 4 sẽ được miễn khoản phí này.
+{% endhint %}
+
 ## Thông tin và chỉ số vũ khí
 
 Để xem đầy đủ chi tiết nhân vật: `catwp i [ID gốc]`  
