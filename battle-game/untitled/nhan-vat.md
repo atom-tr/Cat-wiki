@@ -16,6 +16,10 @@ Bạn cần trang bị một nhân vật và weapon để có thể tham gia tr�
 *  Nâng cấp nhân vật: `catup c [ID nhân vật] [ID gem] [số lượng gem]`
 *  Bán nhân vật: `catsell c [ID] [số lượng]`
 
+{% hint style="info" %}
+Xem đầy đủ các lệnh và thông tin chi tiết liên quan: **`cath c`**
+{% endhint %}
+
 ## Thông tin và chỉ số nhân vật
 
 Để xem đầy đủ chi tiết nhân vật: `catc i [ID]`   
