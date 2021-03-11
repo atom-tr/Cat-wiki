@@ -67,7 +67,7 @@ Xem thông tin chỉ số của bảo bối bạn đang sử hữu:
 Cần 4 bảo bối cùng cấp và loại để có thể dung luyện lên cấp tiếp theo: `catgg cb [ID hiện tại] [số lượng]` 
 
 {% hint style="success" %}
-Vũ khí sẽ có thể nâng cấp 4 lần - **Cấp 5 là cấp cao nhất**
+Vũ khí sẽ có thể nâng cấp 4 lần - **5\* là cấp cao nhất**
 {% endhint %}
 
 {% hint style="warning" %}
