@@ -140,20 +140,46 @@ Claim characters, find weapons, collect gadgets, buy gems, upgrade your equipmen
       <td style="text-align:left">Global user-to-user market</td>
       <td style="text-align:left"></td>
     </tr>
+    <tr>
+      <td style="text-align:left"><code>trade</code>
+      </td>
+      <td style="text-align:left">Trade with other users</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>up</code>
+      </td>
+      <td style="text-align:left">Upgrade character, weapon, gadget by gem. Especially, you can upgrade
+        weapon strength level by gem houtu and .. your luck</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>use</code>
+      </td>
+      <td style="text-align:left">Use items in inventory</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>work</code>
+      </td>
+      <td style="text-align:left">Farm dorayaki, gadget, gem</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>marry</code>
+      </td>
+      <td style="text-align:left">Marry and fight together, collect love point and earn bonus rewards</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>divorce</code>
+      </td>
+      <td style="text-align:left">Divorce</td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
-
-`trade` Trade with other users
-
-`up` Upgrade character, weapon, gadget by gem. Especially, you can upgrade weapon strength level by gem houtu and .. your luck
-
-`use` Use items in inventory
-
-`work` Farm dorayaki, gadget, gem
-
-`marry` Marry and fight together, collect love point and earn bonus rewards
-
-`divorce` Divorce
 
 ## Gambles
 
