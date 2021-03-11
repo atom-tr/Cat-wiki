@@ -16,5 +16,20 @@ Bạn cần trang bị một nhân vật và weapon để có thể tham gia tr�
 *  Nâng cấp nhân vật: `catup c [ID nhân vật] [ID gem] [số lượng gem]`
 *  Bán nhân vật: `catsell c [ID] [số lượng]`
 
+## Thông tin và chỉ số nhân vật
 
+Để xem đầy đủ chi tiết nhân vật: `catc i [ID]`   
+Xem thông tin nhân vật bạn đang có: `catc [ID]`
+
+{% tabs %}
+{% tab title="catc i \[ID\]" %}
+Ví dụ xem thông tin nhân vật **Doramiga**. Bạn có thể xem bằng lệnh `catc i 60` hoặc `catc i Doramiga`
+
+![Th&#xF4;ng tin nh&#xE2;n v&#x1EAD;t ID Doramiga](../../.gitbook/assets/image%20%285%29.png)
+{% endtab %}
+
+{% tab title="catc \[ID\]" %}
+![Th&#xF4;ng tin Doramiga b&#x1EA1;n &#x111;ang s&#x1EDF; h&#x1EEF;u](../../.gitbook/assets/image%20%286%29.png)
+{% endtab %}
+{% endtabs %}
 
