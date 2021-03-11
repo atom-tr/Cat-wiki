@@ -12,7 +12,7 @@ Here you are, some useful links:
 
 ### Commands
 
-Some commands have its subcommands, if so the syntax will be: `cat [command] [subcommand] [arguments]`
+Một số lệnh cat sẽ có các lệnh con, cấu trúc câu lệnh sẽ như sau: `cat [command] [subcommand] [arguments]`
 
 ### Syntax:
 
