@@ -22,7 +22,7 @@ Before anything, we should go over the basics of how to read Yui's command promp
 Không nhập: **&lt; &gt;, {}, \[ \], or \|** vào các câu lệnh của bạn.
 {% endhint %}
 
-## Battle game
+## [Battle game](feature-channels/untitled-1.md)
 
 Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng cấp sức mạnh bản thân để cùng team chinh phục Adventure, Boss, Boss thế giới.
 
