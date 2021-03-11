@@ -1,4 +1,4 @@
-# FAG - Gambles
+# FAG - Battle Game
 
 ## How to claim weapons?
 
