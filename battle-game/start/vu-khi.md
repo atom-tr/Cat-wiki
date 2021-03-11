@@ -6,10 +6,12 @@ Bạn cần trang bị một nhân vật và weapon để có thể tham gia tr�
 
 ## Các lệnh liên quan
 
-* Chi tiết vũ khí: `catwp [ID]`
-* Sử dụng: `catwp use [ID]`
-* Đổi tên vũ khí: `catwp rn [ID] [tên]`
-* Nâng cấp vũ khí: `catup wp [ID vũ khí] [ID gem] [số lượng gem]`
+* Xem danh sách vũ khí của Cat: `catwp ls`
+* Xem thông tin vũ khí của game: `catwp i [ID gốc]`
+* Chi tiết vũ khí: `catwp [ID hiện tại]`
+* Sử dụng: `catwp use [ID hiện tại]`
+* Đổi tên vũ khí: `catwp rn [ID hiện tại] [tên]`
+* Nâng cấp vũ khí: `catup wp [ID hiện tại] [ID gem] [số lượng gem]`
 * Bán nhân vật: `catsell wp [ID] [số lượng]`
 
 {% hint style="info" %}
