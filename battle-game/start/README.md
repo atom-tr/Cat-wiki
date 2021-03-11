@@ -72,3 +72,5 @@ catg
 
 `catgg` là lệnh rút gọn của `catgadget`
 
+![Kho &#x111;&#x1ED3; b&#x1EA3;o b&#x1ED1;i](../../.gitbook/assets/image%20%281%29.png)
+
