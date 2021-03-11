@@ -18,9 +18,9 @@ Xem đầy đủ các lệnh và thông tin chi tiết liên quan: **`cath wp`**
 
 Ngoài gói **Starter Pack \(item 10\)** chỉ nhận được 1 lần khi bắt đầu chơi, bạn có thể có vũ khí bằng cách mở rương \(item 1\) hoặc mua từ người chơi khác.
 
+Bạn có thể nhận rương vũ khí: mua ở shop `catbuy 2 [số lượng]` hoặc nhận được khi đánh bại boss.
 
-
-## Thông tin và chỉ số nhân vật
+## Thông tin và chỉ số vũ khí
 
 Để xem đầy đủ chi tiết nhân vật: `catc i [ID]`  
 Xem thông tin nhân vật bạn đang có: `catc [ID]`
