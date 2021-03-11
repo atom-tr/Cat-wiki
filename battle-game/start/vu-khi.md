@@ -41,3 +41,17 @@ Các chỉ số:
 * Chỉ số cơ bản:  ![](https://cdn.discordapp.com/emojis/689391397643747368.png?v=1)`damage` và ![](https://cdn.discordapp.com/emojis/689391171411247196.png?v=1)`shield` sẽ tăng mỗi khi bạn cường hóa vũ khí
 * Chỉ số mở rộng:  ![](https://cdn.discordapp.com/emojis/689391538601852959.png?v=1)`attack` ![](https://cdn.discordapp.com/emojis/693700331216830474.png?v=1)`defense` ![](https://cdn.discordapp.com/emojis/689391282350588106.png?v=1)`luck` ![](https://cdn.discordapp.com/emojis/689391102100635728.png?v=1)`wisdom` sẽ tăng khi bạn dùng gem nâng cấp \(max +10\) không tăng lên khi bạn cường hóa.
 
+{% tabs %}
+{% tab title="catwp i \[ID\]" %}
+Lệnh để xem một vũ khí có trong game:
+
+![SIG P228](../../.gitbook/assets/image%20%2810%29.png)
+{% endtab %}
+
+{% tab title="catwp \[ID\]" %}
+Xem thông tin chỉ số của vũ khí bạn đang sử hữu:
+
+![&#x1F47E; Atom.&apos;s SIG P228](../../.gitbook/assets/image%20%289%29.png)
+{% endtab %}
+{% endtabs %}
+
