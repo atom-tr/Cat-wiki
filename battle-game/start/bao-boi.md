@@ -8,26 +8,26 @@ Bạn cần trang bị một nhân vật và weapon để có thể tham gia tr�
 
 ## Các lệnh liên quan
 
-* Xem danh sách vũ khí của Cat: `catwp ls`
-* Xem thông tin vũ khí của game: `catwp i [ID gốc]`
-* Chi tiết vũ khí: `catwp [ID hiện tại]`
-* Sử dụng: `catwp use [ID hiện tại]`
-* Đổi tên vũ khí: `catwp rn [ID hiện tại] [tên]`
-* Nâng cấp vũ khí: `catup wp [ID hiện tại] [ID gem] [số lượng gem]`
-* Bán nhân vật: `catsell wp [ID] [số lượng]`
+* Xem danh sách vũ khí của Cat: `catgg ls`
+* Xem thông tin vũ khí của game: `catgg i [ID gốc]`
+* Chi tiết vũ khí: `catgg [ID hiện tại]`
+* Sử dụng: `catgg use [ID hiện tại]`
+* Đổi tên vũ khí: `catgg rn [ID hiện tại] [tên]`
+* Nâng cấp vũ khí: `catup gg [ID hiện tại] [ID gem] [số lượng gem]`
+* Bán nhân vật: `catsell gg [ID] [số lượng]`
 
 {% hint style="info" %}
-ID hiện tại của wp sẽ là: `[Cấp]+[ID gốc]`
+ID hiện tại của gg sẽ là: `[Cấp]+[ID gốc]`
 {% endhint %}
 
 {% hint style="info" %}
-Xem đầy đủ các lệnh và thông tin chi tiết liên quan: **`cath wp`**
+Xem đầy đủ các lệnh và thông tin chi tiết liên quan: **`cath gg`**
 {% endhint %}
 
 Ngoài gói **Starter Pack \(item 10\)** chỉ nhận được 1 lần khi bắt đầu chơi, bạn có thể có vũ khí bằng cách mở rương \(item 1\) hoặc mua từ người chơi khác.
 
-Bạn có thể nhận rương vũ khí: mua ở shop với giá 25 dora `catbuy 1 [số lượng]` hoặc nhận được khi đánh bại boss.  
-Bạn có thể tìm mua vũ khí bằng cách hỏi trực tiếp ở người chơi khác, hoặc tìm kiếm ở chợ Đô Rề: `catm wp`
+Bạn có thể nhận rương vũ khí: mua ở shop với giá 25 dora `catbuy 4 [số lượng]` hoặc nhận được khi đánh bại boss.  
+Bạn có thể tìm mua vũ khí bằng cách hỏi trực tiếp ở người chơi khác, hoặc tìm kiếm ở chợ Đô Rề: `catm gg`
 
 {% hint style="warning" %}
 Người chơi khi bán qua chợ Đô Rề sẽ phải chịu phí 10%. Các người chơi có Premium Batte 3 / 4 sẽ được miễn khoản phí này.
@@ -35,8 +35,8 @@ Người chơi khi bán qua chợ Đô Rề sẽ phải chịu phí 10%. Các ng
 
 ## Thông tin và chỉ số vũ khí
 
-Để xem đầy đủ chi tiết nhân vật: `catwp i [ID gốc]`  
-Xem thông tin nhân vật bạn đang có: `catwp [ID hiện tại]`
+Để xem đầy đủ chi tiết nhân vật: `catgg i [ID gốc]`  
+Xem thông tin nhân vật bạn đang có: `catgg [ID hiện tại]`
 
 Các chỉ số:
 
@@ -58,7 +58,7 @@ Bạn sẽ thấy chỉ số cơ bản được tăng thêm khi cường hóa l�
 {% endtab %}
 {% endtabs %}
 
-## Cường hóa vũ khí
+## Nâng cấp bảo bối
 
 Để nâng cấp vũ khí của bạn, bạn cần sử dụng Houtu \(gem 3\) để nâng cấp. Số lượng và tỷ lệ sẽ phụ thuộc vào cấp độ hiện tại của vũ khí bạn. Số lượng Huotu cần để 100% nâng cấp thành công được tính bằng phép tính: `3^[Cấp hiện tại]` 
 
