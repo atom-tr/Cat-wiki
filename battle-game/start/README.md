@@ -60,8 +60,6 @@ catwp use [ID]
 
 Để tìm hiểu rõ hơn về vũ khí:
 
-{% page-ref page="vu-khi.md" %}
-
 ## Use Gadget
 
 Để kiểm tra bảo bối bạn đang sở hữu:
@@ -71,4 +69,21 @@ catg
 ```
 
 `catgg` là lệnh rút gọn của `catgadget`
+
+![Kho &#x111;&#x1ED3; b&#x1EA3;o b&#x1ED1;i](../../.gitbook/assets/image%20%281%29.png)
+
+Mỗi bảo bối sẽ đem lại cho bạn một kỹ năng khác nhau. Bạn có 3 vị trí để trang bị. Để trang bị bạn dùng lệnh:
+
+```text
+catgg use [ID gadget] [1 | 2 | 3]
+```
+
+Để tìm hiểu thêm:
+
+## Next Step
+
+Như vậy bạn đã trang bị đầy đủ trang bị để có thể tham gia **Doraemon Battle.**  
+Cùng chuyển qua giai đoạn tiếp theo:
+
+{% page-ref page="../chuong-2-tham-ngan.md" %}
 

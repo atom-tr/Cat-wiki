@@ -4,7 +4,9 @@ description: 'Thông tin, lệnh liên quan'
 
 # Nhân vật
 
+{% hint style="warning" %}
 Bạn cần trang bị một nhân vật và weapon để có thể tham gia trận chiến.
+{% endhint %}
 
 ## Các lệnh liên quan
 
