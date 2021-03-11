@@ -45,21 +45,22 @@ Các chỉ số:
 * Các loại gadget được xếp hạng từ cao tới thấp: ![:uls:](https://cdn.discordapp.com/emojis/693704060972433478.png?v=1) ![:ss:](https://cdn.discordapp.com/emojis/693699322004504607.png?v=1) ![:as:](https://cdn.discordapp.com/emojis/693699320863784972.png?v=1) ![:js:](https://cdn.discordapp.com/emojis/693699320842551307.png?v=1) ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.png?v=1) ![:ur:](https://cdn.discordapp.com/emojis/693699222515744809.png?v=1) ![:rr:](https://cdn.discordapp.com/emojis/693699222729654284.png?v=1) ![:sr:](https://cdn.discordapp.com/emojis/693699222855352400.png?v=1) ![:ucn:](https://cdn.discordapp.com/emojis/693702729930899466.png?v=1) ![:sn:](https://cdn.discordapp.com/emojis/693699121541808138.png?v=1) ![:qn:](https://cdn.discordapp.com/emojis/693699122657493032.png?v=1) ![:cn:](https://cdn.discordapp.com/emojis/693699121529225267.png?v=1) 
 
 {% tabs %}
-{% tab title="catwp i \[ID\]" %}
-Lệnh để xem một vũ khí có trong game:
+{% tab title="catgg i \[ID\]" %}
+Lệnh để xem một bảo bối có trong game:
 
-![SIG P228](../../.gitbook/assets/image%20%2810%29.png)
+![Gomu Gomu no Mi](../../.gitbook/assets/image%20%288%29.png)
 {% endtab %}
 
-{% tab title="catwp \[ID\]" %}
-Xem thông tin chỉ số của vũ khí bạn đang sử hữu:  
-Bạn sẽ thấy chỉ số cơ bản được tăng thêm khi cường hóa lên 2, và chỉ số mở rộng bạn đã cường hóa.
+{% tab title="catg \[ID\]" %}
+Xem thông tin chỉ số của bảo bối bạn đang sử hữu:
 
-![&#x1F47E; Atom.&apos;s SIG P228](../../.gitbook/assets/image%20%289%29.png)
+![&#x1F47E; Atom.\#1011&apos;s Gomu Gomu no Mi](../../.gitbook/assets/image%20%287%29.png)
 {% endtab %}
 {% endtabs %}
 
 ## Kỹ năng của bảo bối
+
+![&#x1F47E; Atom.\#1011&apos;s Gomu Gomu no Mi](../../.gitbook/assets/image%20%2811%29.png)
 
 ## Nâng cấp bảo bối
 
