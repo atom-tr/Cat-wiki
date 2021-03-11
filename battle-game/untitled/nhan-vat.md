@@ -21,6 +21,11 @@ Bạn cần trang bị một nhân vật và weapon để có thể tham gia tr�
 Để xem đầy đủ chi tiết nhân vật: `catc i [ID]`   
 Xem thông tin nhân vật bạn đang có: `catc [ID]`
 
+Các chỉ số:
+
+* Chỉ số cơ bản:  `health` và `mana` sẽ tăng mỗi khi bạn lên level nhân vật
+* Chỉ số mở rộng:  `attack` `defense` `luck` `wisdom` sẽ tăng khi bạn dùng gem nâng cấp \(max +10\) không tăng lên mỗi khi nhân vật bạn lên cấp.
+
 {% tabs %}
 {% tab title="catc i \[ID\]" %}
 Ví dụ xem thông tin nhân vật **Doramiga**. Bạn có thể xem bằng lệnh `catc i 60` hoặc `catc i Doramiga`
