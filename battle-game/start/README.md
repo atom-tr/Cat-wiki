@@ -32,7 +32,13 @@ catc
 
 ![Kho nh&#xE2;n v&#x1EAD;t c&#x1EE7;a b&#x1EA1;n](../../.gitbook/assets/image%20%284%29.png)
 
-Khi show nhân vật lên, bạn cần để ý ID của nhân vật, để trang bị nhân vật chiến đấu bạn cần biết ID nhân vật bạn muốn. Để xem thêm về nhân vật:
+Khi show nhân vật lên, bạn cần để ý ID của nhân vật, để trang bị nhân vật chiến đấu bạn cần biết ID nhân vật bạn muốn. 
+
+```text
+catc use [ID]
+```
+
+Để xem thêm về nhân vật:
 
 {% page-ref page="nhan-vat.md" %}
 
@@ -45,4 +51,18 @@ catwp
 ```
 
 `catwp` là lệnh rút gọn của `catweapon`
+
+![Kho weapon c&#x1EE7;a b&#x1EA1;n](../../.gitbook/assets/image.png)
+
+Để trang bị vũ khí, bạn để ý lấy ID của wp ở dưới icon mỗi vũ khí:
+
+```text
+catwp use [ID]
+```
+
+Để tìm hiểu rõ hơn về vũ khí:
+
+{% page-ref page="vu-khi.md" %}
+
+
 
