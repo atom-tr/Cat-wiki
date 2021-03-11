@@ -267,43 +267,37 @@ Command `voice` with subcommands:
 
 Create, add requirements, end, reroll, show list giveaways. With task types:
 
-* `send messages | has role | join server (time) | stay in voice channels | mention users | be mentioned`
+`send messages | has role | join server (time) | stay in voice channels | mention users | be mentioned`
 
-Command `giveaway`
+Command: `giveaway`
 
 ### **Level**
 
 Chat xp, leveling, rank, role rewards custom for your server
 
-Command `level`
+Command: `level`
 
 ## GIFs
 
 Cute emote actions
 
-`awoo` \| `bang` \| `blush` \| `clagwimoth` \| `cry` \| `cuddle` \| `dance` \| `hug` \| `kiss` \| `lick` \| `nom` \| `pat` \| `pout` \| `punch` \| `slap` \| `smile` \| `smug` \| `stare`
+`awoo | bang | blush | clagwimoth | cry | cuddle | dance | hug | kiss | lick | nom | pat | pout | punch | slap | smile | smug | stare`
 
 ## Media
 
 Random image with keyword. All shared by our members
 
-`meo` \| `xinh` \| `zai` \| `meme` \| `food` \| `sexy`
+`meo | xinh | zai | meme | food | sexy`
 
 ## Fun & Others
 
 Fun things
 
-`speak` - text to speech
-
-`voicecode` - custom voice name for command `speak`
-
-`say` - send messages to any channel
-
-`feedback` \| `info` \| `link` \| `ping` \| `premium` \| `stat`
-
-`help` - list of commands
-
-`help <command>` - detail for command
+* `speak` - text to speech
+* `voicecode` - custom voice name for command `speak`
+* `say` - send messages to any channel
+* `feedback` \| `info` \| `link` \| `ping` \| `premium` \| `stat`
+* `help` - list of commands. `help <command>` - detail for command
 
 ## Supports
 
