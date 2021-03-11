@@ -19,7 +19,7 @@ Một số lệnh cat sẽ có các lệnh con, cấu trúc câu lệnh sẽ nh�
 Before anything, we should go over the basics of how to read Yui's command prompts and Syntax
 
 {% hint style="danger" %}
-Không nhập: **&lt; &gt;, {}, \[ \], or \|** vào các câu lệnh của bạn, these are only placeholders!
+Không nhập: **&lt; &gt;, {}, \[ \], or \|** vào các câu lệnh của bạn.
 {% endhint %}
 
 ## Battle game
