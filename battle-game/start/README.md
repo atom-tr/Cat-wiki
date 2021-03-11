@@ -36,5 +36,13 @@ Khi show nhân vật lên, bạn cần để ý ID của nhân vật, để tran
 
 {% page-ref page="nhan-vat.md" %}
 
+## Use Weapon
 
+Để kiểm tra những vũ khí bạn đang sở hữu:
+
+```text
+catwp
+```
+
+`catwp` là lệnh rút gọn của `catweapon`
 
