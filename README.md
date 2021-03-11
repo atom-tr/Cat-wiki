@@ -71,18 +71,21 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
     <tr>
       <td style="text-align:left"><code>gadget</code>
       </td>
-      <td style="text-align:left">Search, combine, equip and check your gadgets</td>
-      <td style="text-align:left">
+      <td style="text-align:left">T&#xEC;m ki&#x1EBF;m, dung luy&#x1EC7;n, ki&#x1EC3;m tra b&#x1EA3;o b&#x1ED1;i
+        b&#x1EA1;n &#x111;ang c&#xF3; v&#xE0; trang b&#x1ECB; ch&#xFA;ng</td>
+      <td
+      style="text-align:left">
         <p><code>catgadget</code>
         </p>
         <p><code>catgg</code>
         </p>
-      </td>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>gem</code>
       </td>
-      <td style="text-align:left">Search, combine and check your gems</td>
+      <td style="text-align:left">T&#xEC;m ki&#x1EBF;m, dung luy&#x1EC7;n, ki&#x1EC3;m tra b&#x1EA3;o b&#x1ED1;i
+        b&#x1EA1;n &#x111;ang c&#xF3;</td>
       <td style="text-align:left">
         <p><code>catgem</code>
         </p>
@@ -93,7 +96,8 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
     <tr>
       <td style="text-align:left"><code>team</code>
       </td>
-      <td style="text-align:left">Lead your team and go team fight together</td>
+      <td style="text-align:left">Th&#xE0;nh l&#x1EAD;p team, c&#xF9;ng nhau chinh ph&#x1EE5;c th&#x1EBF;
+        gi&#x1EDB;i</td>
       <td style="text-align:left">
         <p><code>catteam</code>
         </p>
