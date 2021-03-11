@@ -26,31 +26,122 @@ Không nhập: **&lt; &gt;, {}, \[ \], or \|** vào các câu lệnh của bạn
 
 Claim characters, find weapons, collect gadgets, buy gems, upgrade your equipments and fight with bosses and other users
 
-`me` Check your equipments. You can equip 1 character, 1 weapon and up to 3 gadgets
-
-`character` Claim, search, equip, rename, reroll and check your characters
-
-`weapon` Claim, search, equip and check your weapons
-
-`gadget` Search, combine, equip and check your gadgets
-
-`gem` Search, combine and check your gems
-
-`team` Lead your team and go team fight together
-
-`fight` Fight, fight solo rank, fight duo rank, fight with bosses and get rewards
-
-`dorayaki` Battle currency. Earned by command work and selling things in Battle. Can be transfered to catnip for gambling
-
-`shop` Battle shop
-
-`buy` Buy items in shop by dorayaki
-
-`item` Check your items
-
-`sell` Sell character, weapon, gadget, gem and get dorayaki
-
-`market` Global user-to-user market
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Command</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Aliases</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><code>me</code>
+      </td>
+      <td style="text-align:left">Check your equipments. You can equip 1 character, 1 weapon and up to 3
+        gadgets</td>
+      <td style="text-align:left">
+        <p><code>cati</code>
+        </p>
+        <p><code>catme</code>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>character</code>
+      </td>
+      <td style="text-align:left">Claim, search, equip, rename, reroll and check your characters</td>
+      <td
+      style="text-align:left"><code>catc</code>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>weapon</code>
+      </td>
+      <td style="text-align:left">Claim, search, equip and check your weapons</td>
+      <td style="text-align:left">
+        <p><code>catwp</code>
+        </p>
+        <p><code>catweapon</code>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>gadget</code>
+      </td>
+      <td style="text-align:left">Search, combine, equip and check your gadgets</td>
+      <td style="text-align:left">
+        <p>catgadget</p>
+        <p>catgg</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>gem</code>
+      </td>
+      <td style="text-align:left">Search, combine and check your gems</td>
+      <td style="text-align:left">
+        <p>catgem</p>
+        <p>catg</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>team</code>
+      </td>
+      <td style="text-align:left">Lead your team and go team fight together</td>
+      <td style="text-align:left">
+        <p>catteam</p>
+        <p>cattm</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>fight</code>
+      </td>
+      <td style="text-align:left">Fight, fight solo rank, fight duo rank, fight with bosses and get rewards</td>
+      <td
+      style="text-align:left">
+        <p>catfight</p>
+        <p>catf</p>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>dorayaki</code>
+      </td>
+      <td style="text-align:left">Battle currency. Earned by command work and selling things in Battle.
+        Can be transfered to catnip for gambling</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>shop</code>
+      </td>
+      <td style="text-align:left">Battle shop</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>buy</code>
+      </td>
+      <td style="text-align:left">Buy items in shop by dorayaki</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>item</code>
+      </td>
+      <td style="text-align:left">Check your items</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>sell</code>
+      </td>
+      <td style="text-align:left">Sell character, weapon, gadget, gem and get dorayaki</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>market</code>
+      </td>
+      <td style="text-align:left">Global user-to-user market</td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
 `trade` Trade with other users
 
