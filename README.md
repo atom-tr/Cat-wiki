@@ -8,7 +8,13 @@ A cute bot with battle RPG, PvP gambles, text to speech, anonymous confession, t
 * \*\*\*\*[**Support Channel**](https://discord.gg/9kfcFNt)
 * \*\*\*\*[**Vote Doraemon**](https://top.gg/bot/574812330760863744/vote)
 
+### Syntax:
 
+Before anything, we should go over the basics of how to read Yui's command prompts and Syntax
+
+{% hint style="danger" %}
+Do not type: **&lt; &gt;, {}, \[ \], or \|**  in your commands, these are only placeholders! 
+{% endhint %}
 
 
 
