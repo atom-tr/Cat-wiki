@@ -108,20 +108,19 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
     <tr>
       <td style="text-align:left"><code>fight</code>
       </td>
-      <td style="text-align:left">Fight, fight solo rank, fight duo rank, fight with bosses and get rewards</td>
-      <td
-      style="text-align:left">
+      <td style="text-align:left">...</td>
+      <td style="text-align:left">
         <p><code>catfight</code>
         </p>
         <p><code>catf</code>
         </p>
-        </td>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>dorayaki</code>
       </td>
-      <td style="text-align:left">Battle currency. Earned by command work and selling things in Battle.
-        Can be transfered to catnip for gambling</td>
+      <td style="text-align:left">Ti&#x1EC1;n t&#x1EC7; trong game, c&#xF3; th&#x1EC3; chuy&#x1EC3;n &#x111;&#x1ED5;i
+        sang <code>nip</code> &#x111;&#x1EC3; c&#x1EDD; b&#x1EA1;c</td>
       <td style="text-align:left">
         <p><code>catdorayaki</code>
         </p>
@@ -139,21 +138,22 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
     <tr>
       <td style="text-align:left"><code>buy</code>
       </td>
-      <td style="text-align:left">Buy items in shop by dorayaki</td>
+      <td style="text-align:left">Mua c&#xE1;c item &#x1EDF; shop b&#x1EB1;ng dorayaki</td>
       <td style="text-align:left"><code>catbuy</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>item</code>
       </td>
-      <td style="text-align:left">Check your items</td>
+      <td style="text-align:left">Ki&#x1EC3;m tra item c&#x1EE7;a b&#x1EA1;n</td>
       <td style="text-align:left"><code>cat item</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>sell</code>
       </td>
-      <td style="text-align:left">Sell character, weapon, gadget, gem and get dorayaki</td>
+      <td style="text-align:left">B&#xE1;n nh&#x1EEF;ng g&#xEC; b&#x1EA1;n c&#xF3; &#x111;&#x1EC3; nh&#x1EAD;n
+        dorayaki</td>
       <td style="text-align:left"><code>cat sell</code>
       </td>
     </tr>
@@ -182,22 +182,22 @@ Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng c
     <tr>
       <td style="text-align:left"><code>up</code>
       </td>
-      <td style="text-align:left">Upgrade character, weapon, gadget by gem. Especially, you can upgrade
-        weapon strength level by gem houtu and .. your luck</td>
+      <td style="text-align:left">N&#xE2;ng c&#x1EA5;p nh&#xE2;n v&#x1EAD;t, trang b&#x1ECB;.</td>
       <td style="text-align:left"><code>catup</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>use</code>
       </td>
-      <td style="text-align:left">Use items in inventory</td>
+      <td style="text-align:left">S&#x1EED; d&#x1EE5;ng c&#xE1;c item b&#x1EA1;n c&#xF3;</td>
       <td style="text-align:left"><code>catuse</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"><code>work</code>
       </td>
-      <td style="text-align:left">Farm dorayaki, gadget, gem</td>
+      <td style="text-align:left">Th&#x103;m ng&#xE0;n, k&#x1EB9;t ng&#x1EA7;n &#x111;&#x1EC3; c&#xF3; <code>dora</code>, <code>gem</code>, <code>gadget</code>
+      </td>
       <td style="text-align:left"><code>catwork</code>  <code>catw</code>
       </td>
     </tr>
