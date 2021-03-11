@@ -59,9 +59,11 @@ Bạn sẽ thấy chỉ số cơ bản được tăng thêm khi cường hóa l�
 {% endtab %}
 {% endtabs %}
 
+## Kỹ năng của bảo bối
+
 ## Nâng cấp bảo bối
 
-Để nâng cấp vũ khí của bạn, bạn cần sử dụng Houtu \(gem 3\) để nâng cấp. Số lượng và tỷ lệ sẽ phụ thuộc vào cấp độ hiện tại của vũ khí bạn. Số lượng Huotu cần để 100% nâng cấp thành công được tính bằng phép tính: `3^[Cấp hiện tại]` 
+Cần 4 bảo bối cùng cấp và loại để có thể dung luyện lên cấp tiếp theo: `catgg cb [ID hiện tại] [số lượng]` 
 
 {% hint style="success" %}
 Vũ khí sẽ có thể nâng cấp 4 lần - **Cấp 5 là cấp cao nhất**
