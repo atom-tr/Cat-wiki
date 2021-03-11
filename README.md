@@ -281,6 +281,14 @@ Chat xp, leveling, rank, role rewards custom for your server
 
 Command `level`
 
+|  |  |
+| :--- | :--- |
+|  |  |
+
+|  |  |
+| :--- | :--- |
+|  |  |
+
 ## GIFs
 
 Cute emote actions
