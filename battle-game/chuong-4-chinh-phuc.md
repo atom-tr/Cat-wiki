@@ -26,3 +26,7 @@ Map event X-mas. `cata x` để xem thông tin map. Đây là loại map chỉ x
 {% endtab %}
 {% endtabs %}
 
+{% hint style="info" %}
+Ải viễn chinh sẽ reset về stage 1 hai lần / tháng \(ngày 1 và 15 mỗi tháng\)
+{% endhint %}
+
