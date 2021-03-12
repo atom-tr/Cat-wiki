@@ -51,6 +51,7 @@ Chung sức tiêu diệt world boss và chia nhau chiến lợi phẩm hấp d�
 
 ### **Nhóm lệnh**
 
+* Cooldown: `2s`
 * `info` \| `i`: Xem trạng thái của boss và bảng xếp hạng sát thương đóng góp
 * `fight` \| `f`:cùng đồng đội tham gia tấn công boss
 
