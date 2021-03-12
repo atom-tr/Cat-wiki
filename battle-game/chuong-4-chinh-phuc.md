@@ -51,6 +51,16 @@ Chung sức tiêu diệt world boss và chia nhau chiến lợi phẩm hấp d�
 
 ### **Nhóm lệnh**
 
-* `info`: Xem trạng thái của boss và bảng xếp hạng sát thương đóng góp
-* `fight`: cùng đồng đội tham gia tấn công boss
+* `info` \| `i`: Xem trạng thái của boss và bảng xếp hạng sát thương đóng góp
+* `fight` \| `f`:cùng đồng đội tham gia tấn công boss
+
+```text
+catwb f [HOLLOWPOD|FOULMONSTER|MURKWRAITH]
+catwb i [H|F|M]
+```
+
+{% hint style="info" %}
+Có thể dùng kí tự đầu tên boss thay vì nhập đầy đủ tên.  
+Thời gian cooldown khi đánh boss thế giới không chia sẻ cùng các boss thường.
+{% endhint %}
 
