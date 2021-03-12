@@ -41,3 +41,15 @@ Map event X-mas. `cata x` để xem thông tin map. Đây là loại map chỉ x
 Ải viễn chinh sẽ reset về stage 1 hai lần / tháng \(ngày 1 và 15 mỗi tháng\)
 {% endhint %}
 
+## **WorldBoss**
+
+Chung sức tiêu diệt world boss và chia nhau chiến lợi phẩm hấp dẫn
+
+{% hint style="info" %}
+ Sử dụng `cathelp worldboss [lệnh con]` để xem chi tiết hơn
+{% endhint %}
+
+### **Nhóm lệnh**
+
+\*\*\*\*
+
