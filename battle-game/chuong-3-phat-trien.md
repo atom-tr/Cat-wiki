@@ -33,6 +33,19 @@ Các con boss này bạn có thể thách thức liên tục cùng thành viên 
 
 {% tab title="Team 4" %}
 
+
+Các con boss này bạn có thể thách thức liên tục cùng thành viên team, cùng nhau nhận thưởng. Cả team sẽ được nhận exp.
+
+| Boss | Character level | Command | Cooldown |
+| :--- | :--- | :--- | :--- |
+| `DBRA` | 10 | `f b db` |  |
+| `KING CRAB` | 15 | `f b k` | 4m45s |
+| `PSY DUCK` | 20 | `f b p` |  |
+| `DRAB` | 25 | `f b dr` |  |
+| `EAGLE` |  | `f b e` |  |
+| `DUGLE` |  | `f b du` |  |
+| `CEAGLE` |  | `f b c` |  |
+| `TUSULEA` |  | `f b t` |  |
 {% endtab %}
 {% endtabs %}
 
