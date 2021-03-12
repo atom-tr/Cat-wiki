@@ -1,3 +1,7 @@
+---
+description: 'À thì, thăm ngàn kẹt ngần.'
+---
+
 # Chương 2: Thăm ngàn
 
 ## Các lệnh cơ bản:
