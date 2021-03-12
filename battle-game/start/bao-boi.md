@@ -52,13 +52,13 @@ Lệnh để xem một bảo bối có trong game:
 {% tab title="catg \[ID\]" %}
 Xem thông tin chỉ số của bảo bối bạn đang sử hữu:
 
-![&#x1F47E; Atom.\#1011&apos;s Gomu Gomu no Mi](../../.gitbook/assets/image%20%287%29%20%281%29%20%281%29.png)
+![&#x1F47E; Atom.\#1011&apos;s Gomu Gomu no Mi](../../.gitbook/assets/image%20%287%29%20%281%29%20%281%29%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 
 ## Kỹ năng của bảo bối
 
-![&#x1F47E; Atom.\#1011&apos;s Gomu Gomu no Mi](../../.gitbook/assets/image%20%287%29%20%281%29.png)
+![&#x1F47E; Atom.\#1011&apos;s Gomu Gomu no Mi](../../.gitbook/assets/image%20%287%29%20%281%29%20%281%29%20%284%29.png)
 
 * **Loại**: ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.png?v=1) 
 * **Kĩ năng**: **75%** ![:DENY\_DMG:](https://cdn.discordapp.com/emojis/701257192933687346.png?v=1) `Không nhận 25/{30}/35/50/75% sát thương từ đối thủ trong 1 lượt` 
