@@ -52,3 +52,5 @@ Bằng lệnh này bạn có thể xem chi tiết chỉ số được cộng th�
 Flag tìm kiếm: **-n** tên, **-g** hệ, **-d** miêu tả, **-p** premium \(0,1\), **-e** emoji, **-sr** tỉ lệ xuất hiện, **-a** hiện tất cả.
 {% endhint %}
 
+
+
