@@ -46,10 +46,10 @@ Bạn không thể thách thức các boss team 2 nếu team bạn có 3 hoặc 
 | `KING CRAB` | 15 | `f b k` | 4m45s |
 | `PSY DUCK` | 20 | `f b p` |  |
 | `DRAB` | 25 | `f b dr` |  |
-| `EAGLE` |  | `f b e` |  |
-| `DUGLE` |  | `f b du` |  |
-| `CEAGLE` |  | `f b c` |  |
-| `TUSULEA` |  | `f b t` |  |
+| `EAGLE` | 25 | `f b e` |  |
+| `DUGLE` | 30 | `f b du` |  |
+| `CEAGLE` | 30 | `f b c` |  |
+| `TUSULEA` | 30 | `f b t` |  |
 {% endtab %}
 {% endtabs %}
 
