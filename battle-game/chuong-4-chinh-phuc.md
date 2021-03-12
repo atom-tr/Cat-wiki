@@ -51,5 +51,6 @@ Chung sức tiêu diệt world boss và chia nhau chiến lợi phẩm hấp d�
 
 ### **Nhóm lệnh**
 
-\*\*\*\*
+* `info`: Xem trạng thái của boss và bảng xếp hạng sát thương đóng góp
+* `fight`: cùng đồng đội tham gia tấn công boss
 
