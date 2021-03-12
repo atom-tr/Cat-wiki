@@ -30,3 +30,7 @@ Những con boss ngày là những con boss cực kì mạnh mẽ, với 3 mức
 {% endtab %}
 {% endtabs %}
 
+{% hint style="info" %}
+Khi bạn chơi solo, bạn có thể thách thức tất cả boss nếu bạn đủ level mà không bị giới hạn bởi số lượng yêu cầu thành viên team của Boss.
+{% endhint %}
+
