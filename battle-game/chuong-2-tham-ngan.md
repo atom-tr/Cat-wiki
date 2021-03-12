@@ -20,7 +20,7 @@ Battle premium sẽ được giảm thời gian hồi các lệnh
 {% endhint %}
 
 {% hint style="warning" %}
-Nhớ kiểm tra **cattask** mỗi 12h để không bỏ lỡ các phần thưởng thêm của các nhiệm vụ.
+Nhớ kiểm tra **cattask, catdaily, vote** mỗi 12h để không bỏ lỡ các phần thưởng thêm.
 {% endhint %}
 
 Hãy thăm ngàn kẹt ngần, phát triển bản thân và cùng chuyển qua giai đoạn tiếp theo.
