@@ -1,7 +1,5 @@
 # Bảo bối
 
-
-
 {% hint style="warning" %}
 Bạn cần trang bị một nhân vật và weapon để có thể tham gia trận chiến.
 {% endhint %}
@@ -54,7 +52,7 @@ Lệnh để xem một bảo bối có trong game:
 {% tab title="catg \[ID\]" %}
 Xem thông tin chỉ số của bảo bối bạn đang sử hữu:
 
-![&#x1F47E; Atom.\#1011&apos;s Gomu Gomu no Mi](../../.gitbook/assets/image%20%287%29.png)
+![&#x1F47E; Atom.\#1011&apos;s Gomu Gomu no Mi](../../.gitbook/assets/image%20%287%29%20%281%29%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -72,7 +70,7 @@ VD với gg 250 trên ta có: 75%\*30% = 22.5%, tức bạn sẽ không nhận 2
 
 ## Nâng cấp bảo bối
 
-Cần 4 bảo bối cùng cấp và loại để có thể dung luyện lên cấp tiếp theo: `catgg cb [ID hiện tại] [số lượng]` 
+Cần 4 bảo bối cùng cấp và loại để có thể dung luyện lên cấp tiếp theo: `catgg cb [ID hiện tại] [số lượng]`
 
 {% hint style="success" %}
 Vũ khí sẽ có thể nâng cấp 4 lần - **5\* là cấp cao nhất**
@@ -81,6 +79,4 @@ Vũ khí sẽ có thể nâng cấp 4 lần - **5\* là cấp cao nhất**
 {% hint style="warning" %}
 Sau khi **nâng cấp bảo bối** lên level mới, **ID bảo bối sẽ thay đổi** đồng thời các **chỉ số mở rộng** đã được cường hóa **sẽ bị reset**
 {% endhint %}
-
-
 

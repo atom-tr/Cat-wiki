@@ -34,6 +34,10 @@ Các con boss này bạn có thể thách thức liên tục cùng thành viên 
 {% tab title="Team 4" %}
 Các con boss này bạn có thể thách thức liên tục cùng thành viên team, cùng nhau nhận thưởng. Cả team sẽ được nhận exp.
 
+{% hint style="danger" %}
+Bạn không thể thách thức các boss team 2 nếu team bạn có 3 hoặc 4 người.
+{% endhint %}
+
 | Boss | Character level | Command | Cooldown |
 | :--- | :--- | :--- | :--- |
 | `DBRA` | 10 | `f b db` |  |
