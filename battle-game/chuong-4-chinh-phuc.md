@@ -14,7 +14,9 @@ Sau khi bạn đã tăng cấp nhân vật, nâng cấp trang bị, có cho mìn
 
 ### Các lệnh liên quan
 
-
+* `cata [Tên]`: Xem thông tin ải 
+* `cata f [Tên]`: Tự đánh ải kế tiếp \(!! ệnh này sẽ bỏ qua các ải ngã rẻ\)
+* `cata f [Tên] -s [Ải]`: đánh 1 ải chỉ định
 
 ### Thông tin Ải viễn chinh
 
