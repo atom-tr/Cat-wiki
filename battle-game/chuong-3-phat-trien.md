@@ -49,7 +49,7 @@ Bạn không thể thách thức các boss team 2 nếu team bạn có 3 hoặc 
 | `EAGLE` | 25 | `f b e` |  |
 | `DUGLE` | 30 | `f b du` |  |
 | `CEAGLE` | 30 | `f b c` |  |
-| `TUSULEA` | 30 | `f b t` |  |
+| `TUSULEA` | 30 | `f b t` | 10m |
 {% endtab %}
 {% endtabs %}
 
