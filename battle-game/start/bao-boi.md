@@ -1,7 +1,5 @@
 # Bảo bối
 
-
-
 {% hint style="warning" %}
 Bạn cần trang bị một nhân vật và weapon để có thể tham gia trận chiến.
 {% endhint %}
@@ -54,17 +52,25 @@ Lệnh để xem một bảo bối có trong game:
 {% tab title="catg \[ID\]" %}
 Xem thông tin chỉ số của bảo bối bạn đang sử hữu:
 
-![&#x1F47E; Atom.\#1011&apos;s Gomu Gomu no Mi](../../.gitbook/assets/image%20%287%29.png)
+![&#x1F47E; Atom.\#1011&apos;s Gomu Gomu no Mi](../../.gitbook/assets/image%20%287%29%20%281%29%20%281%29%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 
 ## Kỹ năng của bảo bối
 
-![&#x1F47E; Atom.\#1011&apos;s Gomu Gomu no Mi](../../.gitbook/assets/image%20%2811%29.png)
+![&#x1F47E; Atom.\#1011&apos;s Gomu Gomu no Mi](../../.gitbook/assets/image%20%287%29%20%281%29%20%281%29%20%284%29.png)
+
+* **Loại**: ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.png?v=1) 
+* **Kĩ năng**: **75%** ![:DENY\_DMG:](https://cdn.discordapp.com/emojis/701257192933687346.png?v=1) `Không nhận 25/{30}/35/50/75% sát thương từ đối thủ trong 1 lượt` 
+* **Mana tiêu thụ**: `40` 
+* **Thời gian hồi chiêu**: `3`
+
+Với thông tin kỹ năng, ta có 75% là ngưỡng sức mạnh của kỹ năng của loại bảo bối ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.png?v=1), và các số 25/{30}/35/50/75% là sức mạnh của từng cấp của bảo bối. Với {xx%} là sức mạnh hiện tại. Từ 2 con số này ta có thể tính được % sức mạnh của bảo bối bạn sử dụng.  
+VD với gg 250 trên ta có: 75%\*30% = 22.5%, tức bạn sẽ không nhận 22.5% sát thương từ đối thủ trong 1 lượt.
 
 ## Nâng cấp bảo bối
 
-Cần 4 bảo bối cùng cấp và loại để có thể dung luyện lên cấp tiếp theo: `catgg cb [ID hiện tại] [số lượng]` 
+Cần 4 bảo bối cùng cấp và loại để có thể dung luyện lên cấp tiếp theo: `catgg cb [ID hiện tại] [số lượng]`
 
 {% hint style="success" %}
 Vũ khí sẽ có thể nâng cấp 4 lần - **5\* là cấp cao nhất**
@@ -73,6 +79,4 @@ Vũ khí sẽ có thể nâng cấp 4 lần - **5\* là cấp cao nhất**
 {% hint style="warning" %}
 Sau khi **nâng cấp bảo bối** lên level mới, **ID bảo bối sẽ thay đổi** đồng thời các **chỉ số mở rộng** đã được cường hóa **sẽ bị reset**
 {% endhint %}
-
-
 

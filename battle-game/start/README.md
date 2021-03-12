@@ -40,6 +40,10 @@ catc use [ID]
 
 Để xem thêm về nhân vật:
 
+{% page-ref page="nhan-vat.md" %}
+
+
+
 ## Use Weapon
 
 Để kiểm tra những vũ khí bạn đang sở hữu:
@@ -60,6 +64,10 @@ catwp use [ID]
 
 Để tìm hiểu rõ hơn về vũ khí:
 
+{% page-ref page="vu-khi.md" %}
+
+
+
 ## Use Gadget
 
 Để kiểm tra bảo bối bạn đang sở hữu:
@@ -79,6 +87,10 @@ catgg use [ID gadget] [1 | 2 | 3]
 ```
 
 Để tìm hiểu thêm:
+
+{% page-ref page="bao-boi.md" %}
+
+
 
 ## Next Step
 
