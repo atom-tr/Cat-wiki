@@ -64,3 +64,7 @@ Có thể dùng kí tự đầu tên boss thay vì nhập đầy đủ tên.
 Thời gian cooldown khi đánh boss thế giới không chia sẻ cùng các boss thường.
 {% endhint %}
 
+### Chiến lợi phẩm
+
+Chiến lợi phẩm sau khi hạ gục boss sẽ được chia theo % sát thương của team gây ra cho boss.
+
