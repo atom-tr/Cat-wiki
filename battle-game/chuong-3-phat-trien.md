@@ -15,16 +15,16 @@ Sau khi đã tìm cho mình được trang bị phù hợp cũng như nhân vậ
 Những con boss ngày là những con boss cực kì mạnh mẽ, với 3 mức độ: Dễ, Vừa và Khó.  
 Đối với những con boss này, mỗi ngày bạn sẽ chỉ có thể đánh bại nó và lãnh thưởng 1 lần ở mỗi mức độ.
 
-{% hint style="info" %}
-Boss ngày không yêu cầu level các thành viên trong team.
-{% endhint %}
-
 | BOSS NAME | Ngày trong tuần \(GMT+7\) | Command |
 | :--- | :--- | :--- |
 | `WA` | Chủ nhật, Thứ 2 | `f b wae|wam|wah` |
 | `WB` | Thứ 3, 4 | `f b wbe|wbm|wbh` |
 | `WC` | Thứ 5 | `f b wce|wcm|wch` |
 | `WE` | Thứ 6, 7 | `f b wee|wem|weh` |
+
+{% hint style="info" %}
+Boss ngày không yêu cầu level các thành viên trong team.
+{% endhint %}
 {% endtab %}
 
 {% tab title="Team 2" %}
