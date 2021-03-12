@@ -19,6 +19,10 @@ Các lệnh fight cần phải trang bị nhân vật và vũ khí.
 Battle premium sẽ được giảm thời gian hồi các lệnh
 {% endhint %}
 
+{% hint style="warning" %}
+Nhớ kiểm tra **cattask** mỗi 12h để không bỏ lỡ các phần thưởng thêm của các nhiệm vụ.
+{% endhint %}
+
 Hãy thăm ngàn kẹt ngần, phát triển bản thân và cùng chuyển qua giai đoạn tiếp theo.
 
 {% page-ref page="chuong-3-phat-trien.md" %}
