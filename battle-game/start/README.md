@@ -40,6 +40,10 @@ catc use [ID]
 
 Để xem thêm về nhân vật:
 
+{% page-ref page="nhan-vat.md" %}
+
+
+
 ## Use Weapon
 
 Để kiểm tra những vũ khí bạn đang sở hữu:
@@ -53,6 +57,10 @@ catwp
 ![Kho weapon c&#x1EE7;a b&#x1EA1;n](../../.gitbook/assets/image.png)
 
 Để trang bị vũ khí, bạn để ý lấy ID của wp ở dưới icon mỗi vũ khí:
+
+{% page-ref page="vu-khi.md" %}
+
+
 
 ```text
 catwp use [ID]
@@ -79,6 +87,10 @@ catgg use [ID gadget] [1 | 2 | 3]
 ```
 
 Để tìm hiểu thêm:
+
+{% page-ref page="bao-boi.md" %}
+
+
 
 ## Next Step
 
