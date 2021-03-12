@@ -44,12 +44,55 @@ Bạn không thể thách thức các boss team 2 nếu team bạn có 3 hoặc 
 | :--- | :--- | :--- | :--- |
 | `DBRA` | 10 | `f b db` |  |
 | `KING CRAB` | 15 | `f b k` | 4m45s |
-| `PSY DUCK` | 20 | `f b p` |  |
+| `PSY DUCK` | 20 | `f b p` | 8m20s |
 | `DRAB` | 25 | `f b dr` |  |
 | `EAGLE` | 25 | `f b e` |  |
 | `DUGLE` | 30 | `f b du` |  |
 | `CEAGLE` | 30 | `f b c` |  |
 | `TUSULEA` | 30 | `f b t` | 10m |
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Boss ngày" %}
+Những con boss ngày là những con boss cực kì mạnh mẽ, với 3 mức độ: Dễ, Vừa và Khó.  
+Đối với những con boss này, mỗi ngày bạn sẽ chỉ có thể đánh bại nó và lãnh thưởng 1 lần ở mỗi mức độ.
+
+| BOSS NAME | Ngày trong tuần \(GMT+7\) | Command |  |  |
+| :--- | :--- | :--- | :--- | :--- |
+| `WA` | Chủ nhật, Thứ 2 | \`f b wae | wam | wah\` |
+| `WB` | Thứ 3, 4 | \`f b wbe | wbm | wbh\` |
+| `WC` | Thứ 5 | \`f b wce | wcm | wch\` |
+| `WE` | Thứ 6, 7 | \`f b wee | wem | weh\` |
+{% endtab %}
+
+{% tab title="Team 2" %}
+Các con boss này bạn có thể thách thức liên tục cùng thành viên team, cùng nhau nhận thưởng. Cả team sẽ được nhận exp.
+
+| Boss | Character level | Command | Cooldown |
+| :--- | :--- | :--- | :--- |
+| `DEER` |  | `f b de` |  |
+| `ZEBRA` |  | `f b z` |  |
+| `ANT` |  | `f b a` |  |
+{% endtab %}
+
+{% tab title="Team 4" %}
+Các con boss này bạn có thể thách thức liên tục cùng thành viên team, cùng nhau nhận thưởng. Cả team sẽ được nhận exp.
+
+{% hint style="danger" %}
+Bạn không thể thách thức các boss team 2 nếu team bạn có 3 hoặc 4 người.
+{% endhint %}
+
+| Boss | Character level | Command | Cooldown |
+| :--- | :--- | :--- | :--- |
+| `DBRA` | 10 | `f b db` |  |
+| `KING CRAB` | 15 | `f b k` | 4m45s |
+| `PSY DUCK` | 20 | `f b p` |  |
+| `DRAB` | 25 | `f b dr` |  |
+| `EAGLE` | 25 | `f b e` |  |
+| `DUGLE` | 30 | `f b du` |  |
+| `CEAGLE` | 30 | `f b c` |  |
+| `TUSULEA` | 30 | `f b t` |  |
 {% endtab %}
 {% endtabs %}
 
