@@ -32,8 +32,6 @@ Các con boss này bạn có thể thách thức liên tục cùng thành viên 
 {% endtab %}
 
 {% tab title="Team 4" %}
-
-
 Các con boss này bạn có thể thách thức liên tục cùng thành viên team, cùng nhau nhận thưởng. Cả team sẽ được nhận exp.
 
 | Boss | Character level | Command | Cooldown |
