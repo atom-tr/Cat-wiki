@@ -28,9 +28,9 @@ Các con boss này bạn có thể thách thức liên tục cùng thành viên 
 
 | Boss | Character level | Command | Cooldown |
 | :--- | :--- | :--- | :--- |
-| `DEER` |  | `f b de` |  |
-| `ZEBRA` |  | `f b z` |  |
-| `ANT` |  | `f b a` |  |
+| `DEER` | 5 | `f b de` |  |
+| `ZEBRA` | 10 | `f b z` |  |
+| `ANT` | 15 | `f b a` |  |
 {% endtab %}
 
 {% tab title="Team 4" %}
