@@ -22,7 +22,13 @@ Những con boss ngày là những con boss cực kì mạnh mẽ, với 3 mức
 {% endtab %}
 
 {% tab title="Team 2" %}
+Các con boss này bạn có thể thách thức liên tục cùng thành viên team, cùng nhau nhận thưởng. Cả team sẽ được nhận exp.
 
+| Boss | Character level | Command | Cooldown |
+| :--- | :--- | :--- | :--- |
+| `DEER` |  | `f b de` |  |
+| `ZEBRA` |  | `f b z` |  |
+| `ANT` |  | `f b a` |  |
 {% endtab %}
 
 {% tab title="Team 4" %}
