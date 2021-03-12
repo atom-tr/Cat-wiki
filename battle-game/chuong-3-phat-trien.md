@@ -8,6 +8,8 @@ description: 'Cùng bạn bè, đồng đội chơi để nhận thêm phần th
 
 Sau khi đã tìm cho mình được trang bị phù hợp cũng như nhân vật yêu thích để sử dụng, hãy tìm cho mình những đồng đội mạnh mẽ để cùng nhau chinh phục các con boss khó nhằn:
 
+## Các loại boss
+
 {% tabs %}
 {% tab title="Boss ngày" %}
 Những con boss ngày là những con boss cực kì mạnh mẽ, với 3 mức độ: Dễ, Vừa và Khó.  
