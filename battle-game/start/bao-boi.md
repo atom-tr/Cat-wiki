@@ -52,7 +52,7 @@ Lệnh để xem một bảo bối có trong game:
 {% tab title="catg \[ID\]" %}
 Xem thông tin chỉ số của bảo bối bạn đang sử hữu:
 
-![&#x1F47E; Atom.\#1011&apos;s Gomu Gomu no Mi](../../.gitbook/assets/image%20%287%29%20%281%29%20%281%29%20%284%29%20%281%29.png)
+![&#x1F47E; Atom.\#1011&apos;s Gomu Gomu no Mi](../../.gitbook/assets/image%20%287%29%20%281%29%20%281%29%20%284%29%20%284%29%20%285%29.png)
 {% endtab %}
 {% endtabs %}
 

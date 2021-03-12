@@ -9,7 +9,7 @@ description: Cùng tham gia các trận chiến khó khăn.
 Sau khi bạn đã tăng cấp nhân vật, nâng cấp trang bị, có cho mình những đồng đội mạnh mẽ, hãy cùng đội của bạn đi chinh phạt những thế giới mới và thu thập những phần thưởng giá trị. Kiếm **vé viễn chinh** bằng cách vote bot và làm nhiệm vụ hằng tuần hoặc mua ở shop để chinh chiến.
 
 {% hint style="info" %}
- Sử dụng `cathelp adventure [lệnh con]` để xem chi tiết hơn
+Sử dụng `cathelp adventure [lệnh con]` để xem chi tiết hơn
 {% endhint %}
 
 ### Các lệnh liên quan
@@ -20,9 +20,12 @@ Sau khi bạn đã tăng cấp nhân vật, nâng cấp trang bị, có cho mìn
 
 ### Thông tin Ải viễn chinh
 
+* Các ải có biểu tượng số lớn hơn bình thường sẽ tốn gấp đôi số lượng vé, nhưng phần thưởng sẽ giá trị hơn.
+* Một số ải chỉ dành cho Battle Premium User.
+
 {% tabs %}
 {% tab title="DOLLMANSTEIN" %}
-Map  **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn chinh bình thường.
+Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn chinh bình thường.
 
 ![DOLLMANSTEIN](../.gitbook/assets/image%20%287%29.png)
 {% endtab %}
