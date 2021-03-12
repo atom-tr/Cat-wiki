@@ -15,6 +15,10 @@ Sau khi đã tìm cho mình được trang bị phù hợp cũng như nhân vậ
 
 ## Các loại boss
 
+{% hint style="warning" %}
+Tất cả các boss có chia sẻ thời gian hồi với nhau.
+{% endhint %}
+
 {% tabs %}
 {% tab title="Boss ngày" %}
 Những con boss ngày là những con boss cực kì mạnh mẽ, với 3 mức độ: Dễ, Vừa và Khó.  
