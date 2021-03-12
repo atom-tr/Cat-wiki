@@ -58,17 +58,15 @@ catwp
 
 Để trang bị vũ khí, bạn để ý lấy ID của wp ở dưới icon mỗi vũ khí:
 
-{% page-ref page="vu-khi.md" %}
-
-
-
-
-
 ```text
 catwp use [ID]
 ```
 
 Để tìm hiểu rõ hơn về vũ khí:
+
+{% page-ref page="vu-khi.md" %}
+
+
 
 ## Use Gadget
 
