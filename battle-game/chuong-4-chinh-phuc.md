@@ -12,6 +12,12 @@ Sau khi bạn đã tăng cấp nhân vật, nâng cấp trang bị, có cho mìn
  Sử dụng `cathelp adventure [lệnh con]` để xem chi tiết hơn
 {% endhint %}
 
+### Các lệnh liên quan
+
+
+
+### Thông tin Ải viễn chinh
+
 {% tabs %}
 {% tab title="DOLLMANSTEIN" %}
 Map  **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn chinh bình thường.
