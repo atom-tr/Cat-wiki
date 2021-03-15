@@ -27,7 +27,7 @@ Sử dụng `cathelp adventure [lệnh con]` để xem chi tiết hơn
 {% tab title="DOLLMANSTEIN" %}
 Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn chinh bình thường.
 
-![DOLLMANSTEIN](../.gitbook/assets/image%20%287%29.png)
+![DOLLMANSTEIN](../.gitbook/assets/image%20%287%29%20%281%29.png)
 {% endtab %}
 
 {% tab title="Map Event" %}
