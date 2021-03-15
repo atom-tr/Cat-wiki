@@ -2,7 +2,7 @@
 
 ## Làm sao để có Vũ khí?
 
-You can get weapons by opening `starter pack` or buying `weapon box` in shop using `dorayaki`
+Bạn có thể có bằng cách mở `starter pack` mua `weapon box` ở shop hoặc tìm kiếm wp được bán từ các user khác ở `catm wp` bằng `dorayaki`
 
 {% page-ref page="battle-game/start/vu-khi.md" %}
 
