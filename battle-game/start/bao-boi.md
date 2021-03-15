@@ -46,7 +46,7 @@ Các chỉ số:
 {% tab title="catgg i \[ID\]" %}
 Lệnh để xem một bảo bối có trong game:
 
-![](../../.gitbook/assets/igg50.png)
+![](../../.gitbook/assets/igg50%20%281%29%20%281%29.png)
 {% endtab %}
 
 {% tab title="catg \[ID\]" %}

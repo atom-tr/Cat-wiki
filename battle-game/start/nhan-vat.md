@@ -44,7 +44,7 @@ Ví dụ xem thông tin nhân vật **Doramiga**. Bạn có thể xem bằng l�
 {% tab title="catc \[ID\]" %}
 Bằng lệnh này bạn có thể xem chi tiết chỉ số được cộng thêm sau khi lên cấp và nâng cấp, số lượng hiện có của một nhân vật.
 
-![Th&#xF4;ng tin Doramiga b&#x1EA1;n &#x111;ang s&#x1EDF; h&#x1EEF;u](../../.gitbook/assets/doramiga.png)
+![Th&#xF4;ng tin Doramiga b&#x1EA1;n &#x111;ang s&#x1EDF; h&#x1EEF;u](../../.gitbook/assets/doramiga%20%281%29%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 

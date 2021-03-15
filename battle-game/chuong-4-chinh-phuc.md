@@ -27,13 +27,13 @@ Sử dụng `cathelp adventure [lệnh con]` để xem chi tiết hơn
 {% tab title="DOLLMANSTEIN" %}
 Map **DOLLMANSTEIN**, `cata d` để xem thông tin map. Đây là ải viễn chinh bình thường.
 
-![DOLLMANSTEIN](../.gitbook/assets/image%20%287%29%20%281%29.png)
+![DOLLMANSTEIN](../.gitbook/assets/image%20%287%29%20%281%29%20%282%29.png)
 {% endtab %}
 
 {% tab title="Map Event" %}
 Map event X-mas. `cata x` để xem thông tin map. Đây là loại map chỉ xuất hiện trong một khoảng thời gian sự kiện.
 
-![X-MAS](../.gitbook/assets/image%20%2813%29.png)
+![X-MAS](../.gitbook/assets/image%20%2813%29%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 

@@ -51,14 +51,14 @@ Các chỉ số:
 {% tab title="catwp i \[ID\]" %}
 Lệnh để xem một vũ khí có trong game:
 
-![SIG P228](../../.gitbook/assets/iwp30.png)
+![SIG P228](../../.gitbook/assets/image%20%2810%29.png)
 {% endtab %}
 
 {% tab title="catwp \[ID\]" %}
 Xem thông tin chỉ số của vũ khí bạn đang sử hữu:  
 Bạn sẽ thấy chỉ số cơ bản được tăng thêm khi cường hóa lên 2, và chỉ số mở rộng bạn đã cường hóa.
 
-![SIG P228](../../.gitbook/assets/wp230.png)
+![SIG P228](../../.gitbook/assets/image%20%289%29%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 

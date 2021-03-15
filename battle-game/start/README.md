@@ -30,7 +30,7 @@ catc
 
 `catc` là lệnh rút gọn của `catcharacter`
 
-![](../../.gitbook/assets/catc.png)
+![](../../.gitbook/assets/image%20%283%29%20%281%29.png)
 
 Khi show nhân vật lên, bạn cần để ý ID của nhân vật, để trang bị nhân vật chiến đấu bạn cần biết ID nhân vật bạn muốn.
 
@@ -70,7 +70,7 @@ catg
 
 `catgg` là lệnh rút gọn của `catgadget`
 
-![](../../.gitbook/assets/catgg.png)
+![](../../.gitbook/assets/catgg%20%281%29%20%281%29.png)
 
 Mỗi bảo bối sẽ đem lại cho bạn một kỹ năng khác nhau. Bạn có 3 vị trí để trang bị. Để trang bị bạn dùng lệnh:
 
