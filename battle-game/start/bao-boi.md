@@ -82,5 +82,17 @@ Sau khi **nâng cấp bảo bối** lên level mới, **ID bảo bối sẽ thay
 
 ## Bộ bảo bối gợi ý cho Newbie
 
+Nếu các bạn chưa có đủ thông tin để tự build cho mình một bộ skill thích hợp cho bản thân, cũng như chưa đủ tài nguyên để có cho mình những bảo bối mong muốn. Mình gợi ý cho các bạn một bộ bảo bối có thể gắn bó với bạn lâu dài mà dễ kiếm:
 
+{% tabs %}
+{% tab title="Mini Tank" %}
+ ![:qn:](https://cdn.discordapp.com/emojis/693699122657493032.png?v=1) ![:tank390:](https://cdn.discordapp.com/emojis/705121155195076628.png?v=1) **Mini Tank:** Như mô tả của nó, chỉ là một bảo bối nhỏ loại **QN** khá dễ kiếm, nhưng mang lại cho bạn khả năng tăng sát thương mỗi 4 turn. Nếu bạn có thể có cho mình 256 mini tank 1\*, bạn có thể dung luyện lên 5\* để có được kỹ năng: Tăng `45% * 90% = 40.5%` Sát thương cơ bản cho đòn đánh tiếp theo.
+
+![B&#x1EA3;o b&#x1ED1;i Mini Tank](../../.gitbook/assets/image%20%2814%29.png)
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
