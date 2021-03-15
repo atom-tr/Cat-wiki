@@ -8,5 +8,7 @@ You can get weapons by opening `starter pack` or buying `weapon box` in shop usi
 
 ## Xin gợi ý cho bộ Bảo bối \(Gadget\) cho người mới?
 
-/battle-game/start/bao-boi\#bo-bao-boi-goi-y-cho-newbie
+{% page-ref page="battle-game/start/bao-boi.md" %}
+
+
 
