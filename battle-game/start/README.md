@@ -30,7 +30,7 @@ catc
 
 `catc` là lệnh rút gọn của `catcharacter`
 
-![Kho nh&#xE2;n v&#x1EAD;t c&#x1EE7;a b&#x1EA1;n](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/catc.png)
 
 Khi show nhân vật lên, bạn cần để ý ID của nhân vật, để trang bị nhân vật chiến đấu bạn cần biết ID nhân vật bạn muốn.
 
