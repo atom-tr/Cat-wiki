@@ -24,6 +24,8 @@ Không nhập: **&lt; &gt;, {}, \[ \], or \|** vào các câu lệnh của bạn
 
 ## Battle game
 
+Nếu các bạn muốn bỏ qua giối thiệu tính năng của BOT mà chỉ quan tâm Battle game, hãy follow liên kết ở dưới:
+
 {% page-ref page="battle-game/start/" %}
 
 Thu thập nhân vật, tìm vũ khí, thu thập bảo bối, mua gems, nâng cấp sức mạnh bản thân để cùng team chinh phục Adventure, Boss, Boss thế giới.
