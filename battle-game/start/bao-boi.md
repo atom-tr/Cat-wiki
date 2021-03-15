@@ -80,3 +80,7 @@ Vũ khí sẽ có thể nâng cấp 4 lần - **5\* là cấp cao nhất**
 Sau khi **nâng cấp bảo bối** lên level mới, **ID bảo bối sẽ thay đổi** đồng thời các **chỉ số mở rộng** đã được cường hóa **sẽ bị reset**
 {% endhint %}
 
+## Bộ bảo bối gợi ý cho Newbie
+
+
+
