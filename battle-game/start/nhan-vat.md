@@ -38,7 +38,7 @@ Hệ của mỗi nhân vật sẽ ảnh hưởng tới chỉ số của nhân v�
 {% tab title="catc i \[ID\]" %}
 Ví dụ xem thông tin nhân vật **Doramiga**. Bạn có thể xem bằng lệnh `catc i 60` hoặc `catc i Doramiga`
 
-![Th&#xF4;ng tin nh&#xE2;n v&#x1EAD;t ID Doramiga](../../.gitbook/assets/image%20%285%29.png)
+![Th&#xF4;ng tin nh&#xE2;n v&#x1EAD;t ID Doramiga](../../.gitbook/assets/idoramiga.png)
 {% endtab %}
 
 {% tab title="catc \[ID\]" %}
