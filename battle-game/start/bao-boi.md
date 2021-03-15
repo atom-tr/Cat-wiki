@@ -58,6 +58,8 @@ Xem thông tin chỉ số của bảo bối bạn đang sử hữu:
 
 ## Kỹ năng của bảo bối
 
+![Gomu Gomu no Mi](../../.gitbook/assets/gg250.png)
+
 * **Loại**: ![:uxr:](https://cdn.discordapp.com/emojis/693703707245936640.png?v=1) 
 * **Kĩ năng**: **75%** ![:DENY\_DMG:](https://cdn.discordapp.com/emojis/701257192933687346.png?v=1) `Không nhận 25/{30}/35/50/75% sát thương từ đối thủ trong 1 lượt` 
 * **Mana tiêu thụ**: `40` 
