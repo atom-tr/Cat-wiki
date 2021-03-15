@@ -2,6 +2,7 @@
 
 * [Getting Started...](README.md)
 * [FAQ - Guild](faq-guild.md)
+* [FAG - Battle Game](fag-gambles.md)
 
 ## Battle game
 
@@ -13,7 +14,6 @@
 * [Chương 3: Phát triển](battle-game/chuong-3-phat-trien.md)
 * [Chương 4: Chinh phục](battle-game/chuong-4-chinh-phuc.md)
 * [Chương 5: Danh vọng](battle-game/chuong-5-danh-vong.md)
-* [FAG - Battle Game](battle-game/fag-gambles.md)
 
 ## Feature Channels
 
