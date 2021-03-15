@@ -46,13 +46,13 @@ Các chỉ số:
 {% tab title="catgg i \[ID\]" %}
 Lệnh để xem một bảo bối có trong game:
 
-![Gomu Gomu no Mi](../../.gitbook/assets/igg50.png)
+![](../../.gitbook/assets/igg50.png)
 {% endtab %}
 
 {% tab title="catg \[ID\]" %}
 Xem thông tin chỉ số của bảo bối bạn đang sử hữu:
 
-![&#x1F47E; Atom.\#1011&apos;s Gomu Gomu no Mi](../../.gitbook/assets/image%20%287%29%20%281%29%20%281%29%20%284%29%20%284%29%20%285%29.png)
+![](../../.gitbook/assets/gg250.png)
 {% endtab %}
 {% endtabs %}
 
