@@ -8,6 +8,8 @@ Bạn có thể có bằng cách mở `starter pack` mua `weapon box` ở shop h
 
 ## Xin gợi ý cho bộ Bảo bối \(Gadget\) cho người mới?
 
+Bộ Gadgets gợi ý dành cho người mới: Mini Tank \(_QN_\), Camera \(_UN_\), Magic Clock \(_UN_\)
+
 {% page-ref page="battle-game/start/bao-boi.md" %}
 
 
