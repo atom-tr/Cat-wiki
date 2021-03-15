@@ -78,7 +78,7 @@ catg
 
 `catgg` là lệnh rút gọn của `catgadget`
 
-![Kho &#x111;&#x1ED3; b&#x1EA3;o b&#x1ED1;i](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/catgg.png)
 
 Mỗi bảo bối sẽ đem lại cho bạn một kỹ năng khác nhau. Bạn có 3 vị trí để trang bị. Để trang bị bạn dùng lệnh:
 
