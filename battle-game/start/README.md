@@ -54,7 +54,7 @@ catwp
 
 `catwp` là lệnh rút gọn của `catweapon`
 
-![Kho weapon c&#x1EE7;a b&#x1EA1;n](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/catwp.png)
 
 Để trang bị vũ khí, bạn để ý lấy ID của wp ở dưới icon mỗi vũ khí:
 
