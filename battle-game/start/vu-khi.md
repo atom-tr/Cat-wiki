@@ -1,3 +1,9 @@
+---
+description: >-
+  Vũ khí chính là trang bị quyết định phần lớn sát thương đánh cũng như khả năng
+  phòng thủ cơ bản lại đòn đánh của địch.
+---
+
 # Vũ khí
 
 {% hint style="warning" %}
